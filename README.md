@@ -24,6 +24,10 @@
 - [RFC](https://github.com/pecha-jobs/Admin/issues/34)
 - [Project]()
 
+## Files
+
+- [OCR output](https://github.com/pecha-jobs/J008/releases/tag/OCR)
+
 ## Description
 
 The template repo to be used across all repos.
