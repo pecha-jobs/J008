@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align="center">J008 - </h3>
+<h3 align="center">J008 - Generic etext of all Pedurma volumes with non-Derge texts</h3>
 
 
 <!-- Generic etext of all Pedurma volumes with non-Derge texts -->
