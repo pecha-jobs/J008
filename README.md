@@ -24,6 +24,29 @@
 - [RFC](https://github.com/pecha-jobs/Admin/issues/34)
 - [Project]()
 
+## Model Language_hint Configuration
+
+1. Model Config 1
+```
+model="builtin/weekly" & language_hints=[None]:
+input_path = Test/Input/I001
+output_opf_path = Test/Output/T001
+```
+2. Model Config 2
+```
+model="builtin/weekly" & language_hints=["bo-t-i0-handwrit"]:
+input_path = Test/Input/I002
+output_opf_path = Test/Output/T002
+```
+
+3. Model Config 3
+```
+model="builtin/weekly" & language_hints=["und-t-i0-handwrit"]:
+input_path = Test/Input/I003
+output_opf_path = Test/Output/T003
+```
+
+
 ## Files
 
 - [OCR output](https://github.com/pecha-jobs/J008/releases/tag/OCR)
