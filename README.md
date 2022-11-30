@@ -24,7 +24,11 @@
 - [RFC](https://github.com/pecha-jobs/Admin/issues/34)
 - [Project]()
 
-## Model Language_hint Configuration
+## Files
+
+- [OCR output](https://github.com/pecha-jobs/J008/releases/tag/OCR)
+
+## Model Language_hint Configurations
 
 1. Model Config 1
 ```
@@ -46,10 +50,6 @@ input_path = Test/Input/I003
 output_opf_path = Test/Output/T003
 ```
 
-
-## Files
-
-- [OCR output](https://github.com/pecha-jobs/J008/releases/tag/OCR)
 
 ## Description
 
